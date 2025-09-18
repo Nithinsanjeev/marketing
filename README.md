@@ -3,7 +3,22 @@
 </p>
 
 <p align="center">
-  <em>Marketing · SMM Panel · SEO Tools · Business Automation</em>
+  <em>Best SMM Panel – Social Growth · Guaranteed · Marketing Automation & SEO Tools</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/prm4u/marketing/stargazers">
+    <img src="https://img.shields.io/github/stars/prm4u/marketing?style=social" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/prm4u/marketing/network/members">
+    <img src="https://img.shields.io/github/forks/prm4u/marketing" alt="GitHub Forks">
+  </a>
+  <a href="https://github.com/prm4u/marketing/issues">
+    <img src="https://img.shields.io/github/issues/prm4u/marketing" alt="GitHub Issues">
+  </a>
+  <a href="https://github.com/prm4u/marketing/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/prm4u/marketing" alt="License">
+  </a>
 </p>
 
 ---
@@ -155,11 +170,3 @@ By combining **SEO tools**, **SMM automation**, and **analytics dashboards**, th
 
 👉 Explore more at [https://prm4u.com](https://prm4u.com)  
 
----
-
-## ⚙️ How to Get Started
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/prm4u/marketing.git
-   cd marketing
